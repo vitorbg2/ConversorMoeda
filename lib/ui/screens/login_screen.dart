@@ -132,10 +132,6 @@ class _LoginScreenState extends State<LoginScreen> {
                   text: 'LOGIN WITH GOOGLE',
                 ),
               ),
-              // RaisedButton(
-              //   onPressed: () {},
-              //   child: Text("LOG IN"),
-              // )
             ],
           ),
         ),
